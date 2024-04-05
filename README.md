@@ -18,7 +18,7 @@
 
 ⭐ Configure what volumes should be (un)mounted automatically, optionally forcefully.
 
-⭐ Available in English, Dutch, German, French, Spanish, Russian, Japanese, Portuguese, Hindi, Arabic & Turkish.
+⭐ Available in English, Dutch, German, French, Spanish, Russian, Japanese, Portuguese, Hindi and Arabic.
 
 ⭐ Configure when volumes should be unmounted:
 
